@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Tables>
+  <Company>
+    <idCompany>50</idCompany>
+    <Name_Company>sadasd</Name_Company>
+  </Company>
+  <Factory>
+    <idFactory>10</idFactory>
+    <Name_Factory>dsad</Name_Factory>
+    <idMaterials>11</idMaterials>
+    <idCompany>12</idCompany>
+  </Factory>
+  <Users_Trading>
+    <idUsers>13</idUsers>
+    <Login>Test1</Login>
+    <Password>test1</Password>
+    <User_role>test1</User_role>
+    <User_Email>test1</User_Email>
+    <idFactory>14</idFactory>
+    <idCompany>15</idCompany>
+  </Users_Trading>
+  <Components>
+    <idComponents>16</idComponents>
+    <Name_Components>eqwe</Name_Components>
+    <Count_Components>100</Count_Components>
+    <idFactory>17</idFactory>
+  </Components>
+  <Materials>
+    <idMaterials>18</idMaterials>
+    <Count_Material>200</Count_Material>
+    <Name_Material>qwe</Name_Material>
+  </Materials>
+</Tables>
